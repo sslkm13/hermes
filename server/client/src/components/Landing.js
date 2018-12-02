@@ -6,7 +6,7 @@ const Landing = () => {
       <h1>
         Hermes
       </h1>
-      Better understand your user behavior 
+      Collect user feedback hassle free! 
     </div>
   );
 };
